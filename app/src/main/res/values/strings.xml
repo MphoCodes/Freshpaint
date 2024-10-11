@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Freshpaint</string>
+    <string name="logo_desc">Freshpaint Logo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_logo_description">App Logo</string>
+    <string name="nav_header_subtitle">Make a difference with Freshpaint</string>
+</resources>

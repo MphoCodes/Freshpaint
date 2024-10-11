@@ -1,0 +1,16 @@
+<!-- event_item_volunteer.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/volunteerNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:text="Volunteer Name" />
+
+    <!-- Add other UI elements if needed, such as email or phone number -->
+</RelativeLayout>

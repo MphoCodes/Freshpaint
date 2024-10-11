@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "850004673098",
+    "firebase_url": "https://fresh-paint-5ee6f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fresh-paint-5ee6f",
+    "storage_bucket": "fresh-paint-5ee6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850004673098:android:84d0edfc8ca4302ad7dcb3",
+        "android_client_info": {
+          "package_name": "com.example.freshpaint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbkeJNOdyOycwhzVzHn_MKt5UVPoKw64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
